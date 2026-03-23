@@ -1,0 +1,59 @@
+# Variáveis de ambiente
+.env
+.env.local
+.env.*.local
+
+# Ambiente Virtual
+venv/
+env/
+ENV/
+.venv
+
+# IDE e Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testes e Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Logs
+*.log
+logs/
+
+# Banco de dados
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache
+.cache/
+*.cache
